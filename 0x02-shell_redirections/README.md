@@ -1,0 +1,1 @@
+This directory contains 0x02shells_redirections content
