@@ -1,3 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
+# Display your shell pid
 
-echo "Your PID is $$"
+echo $$
