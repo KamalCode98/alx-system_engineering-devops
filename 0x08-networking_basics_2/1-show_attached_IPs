@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Script to display all IPv4 addresses on a machine
+
+ifconfig -a | grep -oE 'inet ([0-9]{1,3}\.){3}[0-9]{1,3}' | cut -d' ' -f2
