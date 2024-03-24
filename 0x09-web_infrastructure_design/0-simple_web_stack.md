@@ -1,7 +1,8 @@
-https://github.com/KamalCode98/alx-system_engineering-devops/blob/master/0x09-web_infrastructure_design/0-simple_web_stack.png?raw=true
+
+![0-simple_web_stack](https://github.com/KamalCode98/alx-system_engineering-devops/assets/144700532/5100155e-30ac-4e05-891b-28a7da911fd1)
+
 
 Components:
-
 Server: A physical or virtual machine that hosts the website and its related services.
 Web Server (Nginx): Software that serves web pages to users. It handles HTTP requests and serves the requested pages.
 Application Server: Software that runs your application code. It processes the business logic and interacts with the database.
